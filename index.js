@@ -3,6 +3,7 @@ const view = createView({
     onIncrementButtonClick: handleIcremenentButtonClick,
     onDesrementButtonClick: onDecrementButtonClick,
     onResetButtonClick: onResetButtonClick,
+    
 });
 
 view.render({

@@ -1,7 +1,7 @@
 function createView({
     onIncrementButtonClick,
     onDesrementButtonClick,
-    onResetButtonClick,
+    onResetButtonClick
 }) {
     const counterNode = document.querySelector('.js-counter');
     const incrementNode = document.querySelector('.js-increment');

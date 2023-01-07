@@ -16,5 +16,6 @@ function createCounter(){
         reset: function(){
             this.counter = INITIAL_COUNTER;
         },
+        
     }
 }
